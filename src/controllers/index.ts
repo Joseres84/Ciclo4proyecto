@@ -7,3 +7,6 @@ export * from './rol-usuarios.controller';
 export * from './torneo.controller';
 export * from './equipos.controller';
 export * from './escenarios.controller';
+export * from './torneo-equipos.controller';
+export * from './equipos-usuarios.controller';
+export * from './torneo-escenario-deportivo.controller';
